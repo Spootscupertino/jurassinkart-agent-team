@@ -1,0 +1,23 @@
+# Core
+pydantic
+jsonschema
+jinja2
+
+# Research / web access
+wikipedia-api
+
+# Reddit content
+praw
+
+# Printify automation (wrapper + auth headers)
+printipy
+
+# Image processing
+pillow
+imagehash
+
+# Automated critic loop
+# NOTE: torch + open_clip are heavy dependencies
+# and depend on your OS/Python setup.
+torch
+open_clip_torch
